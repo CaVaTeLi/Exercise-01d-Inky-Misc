@@ -1,7 +1,10 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+# My name is:
+
 Sara Nelson
 
-# Your Github username
+# My github username is:
+
 Cavateli
+
